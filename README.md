@@ -1,2 +1,3 @@
 # functions
-Repository for the Functions Discord Bot
+Repository for the **Functions Discord Bot**
+We hope you enjoy it here!
